@@ -22,7 +22,13 @@ The dataset was taken directly from the official Capital Bikeshare website. The 
 
 ## Methology
 
-This project will consist of first, preparing and cleaning the dataset. Finding the summary statistics of the trips, then mapping the coordinates of the starting and ending stations. 
+This project will consist of first, preparing and cleaning the dataset. Finding the summary statistics of the trips, then mapping the coordinates of the starting and ending stations. The duration of the trips will be calculated using the started_at and ended_at variables. 
+
+### Summary Statistics Computed
+
+- Number of membered and casual riders
+- Average trip duration of membered and casual riders
+- Number of types of bikes used by membered and casual riders
 
 ## Packages Used in R
 
