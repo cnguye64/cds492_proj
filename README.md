@@ -19,3 +19,13 @@ The dataset was taken directly from the official Capital Bikeshare website. The 
 - start_lng: Longitude where trip started
 - end_lng: Longitude where trip ended
 - member casual: Whether trip was taken by a member with subscription or a single renter user
+
+## Methology
+
+This project will consist of first, preparing and cleaning the dataset. Finding the summary statistics of the trips, then mapping the coordinates of the starting and ending stations. 
+
+## Packages Used in R
+
+- ddplyr
+- ggplot2
+- todyr
