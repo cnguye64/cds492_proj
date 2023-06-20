@@ -1,5 +1,7 @@
 # Capital Bikeshare Data Analysis Project
-cds492 R Project
+--- 
+By: Christine Nguyen 
+CDS 492 Capstone Final Project
 
 ## Project Overview
 
