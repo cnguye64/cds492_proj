@@ -30,6 +30,17 @@ This project will consist of first, preparing and cleaning the dataset. Finding 
 - Average trip duration of membered and casual riders
 - Number of types of bikes used by membered and casual riders
 
+### Visualizations Created
+
+- Histogram of trip duration
+- Map of starting and ending stations
+
+## Results
+
+It is found that approximately 71% of all riders are members but casual riders have a greater average trip time. Also, membered riders do not have the option of using docked bikes for trips. 
+
+In order to pursuade casual riders to switch to a membership program, it is recommended that firstly, as trip lengths peak at about 500 seconds, special subscription discounts will be offered if users decide to switch to a membership option during that time. Second, placing bikes at the stations that are only accessible to members ensures that they will have a better chance of locating a bike. Lastly, areas with less common starting stations can offer discounts to try encouraging more users to the area.  
+
 ## Packages Used in R
 
 - ddplyr
